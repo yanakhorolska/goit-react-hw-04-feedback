@@ -1,4 +1,4 @@
-﻿import PropTypes from 'prop-types';
+import PropTypes from 'prop-types';
 import { SectionBlock, Title } from './Section.styled';
 
 const Section = ({ title, children }) => {
